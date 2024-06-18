@@ -2,6 +2,7 @@ import streamlit as st
 import webbrowser
 import pandas as pd
 from datetime import datetime
+import openia
 
 
 if "data" not in st.session_state:
