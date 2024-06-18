@@ -17,9 +17,10 @@ st.markdown('# FIFA23 OFFICIAL DATASET⚽')
 # criando a sidebar - usando a "fonte" markdown - colocando o link dentro da sidebar
 st.sidebar.markdown('Desenvolvido por [Asimov Academy](https://asimov.academy)')
 
-btn = st.button('Acesse os dados no Kaggle')
-if btn:
-    webbrowser.open_new_tab('https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset')
+btn = st.link_button(
+    'Acesse os dados no Kaggle',
+    'https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset'
+)
 
 st.markdown(
     """
