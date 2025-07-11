@@ -56,8 +56,8 @@ It was built as a data exploration tool for football enthusiasts, analysts, and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/joaoeferrari/streamlit_fifa_deploy.git
+cd streamlit_fifa_deploy
 
 # Install dependencies
 pip install -r requirements.txt
