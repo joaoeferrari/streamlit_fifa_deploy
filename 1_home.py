@@ -15,7 +15,7 @@ if "data" not in st.session_state:
 
 st.markdown('# FIFA23 OFFICIAL DATASET⚽')
 # criando a sidebar - usando a "fonte" markdown - colocando o link dentro da sidebar
-st.sidebar.markdown('Desenvolvido por [Asimov Academy](https://asimov.academy)')
+st.sidebar.markdown('Desenvolvido com [Asimov Academy](https://asimov.academy)')
 
 btn = st.link_button(
     'Acesse os dados no Kaggle',
