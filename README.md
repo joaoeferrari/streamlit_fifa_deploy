@@ -19,6 +19,12 @@ It was built as a data exploration tool for football enthusiasts, analysts, and 
 
 ---
 
+## Demo
+<img width="1841" height="841" alt="image" src="https://github.com/user-attachments/assets/e69f8d55-9392-4952-938c-57f797fa53ae" />
+<img width="1848" height="841" alt="image" src="https://github.com/user-attachments/assets/36c7cfdd-88fb-4357-92d3-2aa3d6f693cb" />
+<img width="1844" height="831" alt="image" src="https://github.com/user-attachments/assets/2b11486a-5199-4065-8663-4e610e677b3b" />
+
+---
 ## 📊 Features
 
 ### 📌 Home Page
