@@ -4,9 +4,7 @@ Explore official FIFA 23 player and club data with an interactive Streamlit inte
 
 🔗 **Live App:** [https://fifadeploy.streamlit.app](https://fifadeploy.streamlit.app)
 
----
-
-## 🧠 About the Project
+## About the Project
 
 This project allows you to visualize and analyze FIFA 23 players and teams based on real-world data from Kaggle.  
 It was built as a data exploration tool for football enthusiasts, analysts, and students.
@@ -16,23 +14,21 @@ It was built as a data exploration tool for football enthusiasts, analysts, and 
 - Filter by club and explore attributes like age, position, salary, and market value
 - Display club badges, player photos, national flags, and key stats
 - Track overall performance using progress bars
-
----
-
+  
 ## Demo
 <img width="1841" height="841" alt="image" src="https://github.com/user-attachments/assets/e69f8d55-9392-4952-938c-57f797fa53ae" />
 <img width="1848" height="841" alt="image" src="https://github.com/user-attachments/assets/36c7cfdd-88fb-4357-92d3-2aa3d6f693cb" />
 <img width="1844" height="831" alt="image" src="https://github.com/user-attachments/assets/2b11486a-5199-4065-8663-4e610e677b3b" />
 
 ---
-## 📊 Features
+## Features
 
-### 📌 Home Page
+### Home Page
 - Introduction to the dataset
 - Link to download the original data
 - Filters players with valid contracts and non-zero market value
 
-### 🧑‍🎓 Players
+### Players
 - Select a club and see the available players
 - Choose a player to display:
   - Photo
@@ -40,7 +36,7 @@ It was built as a data exploration tool for football enthusiasts, analysts, and 
   - Position and overall
   - Market value, weekly wage, and release clause
 
-### 🏟️ Teams
+### Teams
 - Select a club and view:
   - Team logo
   - A table with player attributes
@@ -48,7 +44,7 @@ It was built as a data exploration tool for football enthusiasts, analysts, and 
 
 ---
 
-## 🗂 Dataset
+## Dataset
 
 - **Source:** [FIFA 23 Complete Player Dataset – Kaggle](https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset)
 - **Data cleaning includes:**
@@ -58,7 +54,7 @@ It was built as a data exploration tool for football enthusiasts, analysts, and 
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ```bash
 # Clone the repository
