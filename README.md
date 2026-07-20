@@ -1,8 +1,8 @@
-# ⚽ FIFA23 Player & Team Explorer
+# FIFA23 Player & Team Explorer
 
 Explore official FIFA 23 player and club data with an interactive Streamlit interface.
 
-🔗 **Live App:** [https://fifadeploy.streamlit.app](https://fifadeploy.streamlit.app)
+ **Live App:** [https://fifadeploy.streamlit.app](https://fifadeploy.streamlit.app)
 
 ## About the Project
 
